@@ -1,1 +1,5 @@
 # Athletic Shoes
+## ➡️ Key Concepts
+## ✅
+## ✅
+## ✅
