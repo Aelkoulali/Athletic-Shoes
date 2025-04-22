@@ -1,5 +1,5 @@
 # 🗂️ Athletic Shoes 👟
 ## ➡️ Key Concepts :
 ## ✅ Ecommerce Website
-## ✅ HTML CSS and JavaScript
+## ✅ HTML CSS JavaScript
 ## ✅
