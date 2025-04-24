@@ -1,4 +1,5 @@
 # 🗂️ Fit For Feet 👟 🏀
 ## ➡️ Key Concepts :
-## ✅ Ecommerce Website
+## ✅ E-commerce 
 ## ✅ HTML CSS JavaScript
+## 
