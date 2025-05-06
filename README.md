@@ -1,5 +1,5 @@
 # 🗂️ Sneaker King 👟 
 ## ➡️ Key Concepts :
-## ✅ E-commerce 
+## ✅ E-commerce Project
 ## ✅ HTML CSS JavaScript
 ## ✅ Product Filter with JavaScript
