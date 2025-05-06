@@ -1,4 +1,4 @@
-# 🗂️ Fit For Feet 👟 
+# 🗂️ Sneaker King 👟 
 ## ➡️ Key Concepts :
 ## ✅ E-commerce 
 ## ✅ HTML CSS JavaScript
