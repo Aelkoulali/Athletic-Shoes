@@ -17,3 +17,9 @@
   position: relative;
 }
 
+/* Navbar*/
+.navbar-brand img{
+    width: 120px;
+    height: 50px;
+    cursor: pointer;
+}
