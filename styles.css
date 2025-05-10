@@ -18,6 +18,10 @@
 }
 
 /* Navbar*/
+.navbar {
+    background:#27445C;
+    position: sticky;
+}
 .navbar-brand img{
     width: 120px;
     height: 50px;
