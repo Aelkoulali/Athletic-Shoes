@@ -8,8 +8,7 @@
 }
 
 /* Hero Section*/
-.hero-image{
-  background: url('Public/hero/Hero.png');
+.hero{
   height: 100vh;
   background-position: center;
   background-repeat: no-repeat;
