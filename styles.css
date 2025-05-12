@@ -8,18 +8,14 @@
 }
 
 /* Hero Section*/
-.hero{
+.hero {
   height: 100vh;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
   position: relative;
 }
 
 /* Navbar*/
 .navbar {
-    background-color:black;
-    position:sticky;
+   position: sticky;
 }
 .navbar-brand img{
     cursor: pointer;
