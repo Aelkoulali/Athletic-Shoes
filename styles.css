@@ -19,7 +19,7 @@
 
 /* Navbar*/
 .navbar {
-    background:black;
+    background-color:black;
     position:sticky;
 }
 .navbar-brand img{
